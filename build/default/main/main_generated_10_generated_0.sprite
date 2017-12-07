@@ -1,0 +1,4 @@
+tile_set: "/def-alien-world/sprites/skull.tilesource"
+default_animation: "fly"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA

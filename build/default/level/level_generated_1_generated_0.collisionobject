@@ -1,0 +1,10 @@
+collision_shape: "/level/level.tilemap"
+type: COLLISION_OBJECT_TYPE_KINEMATIC
+mass: 0.0
+friction: 0.1
+restitution: 0.5
+group: "geometry"
+mask: "player"
+linear_damping: 0.0
+angular_damping: 0.0
+locked_rotation: false
